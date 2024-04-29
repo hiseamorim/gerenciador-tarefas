@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Gerenciador de Tarefas</title>
+    <link rel="stylesheet" href="index.css">
 </head>
 <body>
    
@@ -36,6 +37,7 @@
         <button type="submit" class="btn-clear">Limpar tarefas</button>
     </form>
     <div class="footer">
+    <p>Desenvolvido por @MonolitoPHP</p>
    </div>
 </div>
  
