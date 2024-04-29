@@ -31,6 +31,10 @@
             ?>
         </ul>
     </div>
+    <form action="" method="get">
+        <input type="hidden" name="clear" value="clear">
+        <button type="submit" class="btn-clear">Limpar tarefas</button>
+    </form>
     <div class="footer">
    </div>
 </div>
