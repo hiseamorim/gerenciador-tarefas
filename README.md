@@ -24,10 +24,6 @@ Projeto desenvolvido para disciplina de Programação Web II. Copiamos um gerenc
 - `var_dump()`: A função em PHP é usada para exibir informações sobre uma ou mais variáveis, incluindo seu tipo e valor. Ela é especialmente útil para depuração e diagnóstico de código, pois permite ver exatamente como uma variável está estruturada.
 - `unset()`: É utilizada em PHP para destruir uma variável especificada. Isso significa que a variável deixará de existir e seu conteúdo será removido da memória.
 
-### 🛠️ Tecnologia ultilizadas
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width=50  /> |  <> |  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width=50  />| <img src="https://icons8.com.br/icon/21278/css3" width=50/>| <img src="https://icons8.com.br/icon/fAMVO_fuoOuC/php-logo"  width=50/> |
-| :---: | :---: | :---: | 
-
 ## 📄 Fontes consultadas
 MonolitoPHP [https://www.youtube.com/watch?v=dJ49I-QYYUk&ab_channel=MonolitoPHP]
 
