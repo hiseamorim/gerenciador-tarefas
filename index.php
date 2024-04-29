@@ -16,6 +16,7 @@
             <label for="task_name"></label>
              <input type="text" name="task_name" placeholder="Nome da Tarefa">
              <button type="submit">Cadastrar</button>
+        </form>
     </div>
     <div class="separator">
     </div>
