@@ -21,6 +21,15 @@
     <div class="separator">
     </div>
     <div class="list-tasks">
+    <ul>
+            <?php
+            if (isset($_SESSION['tasks'])) {
+                foreach ($_SESSION['tasks'] as $key => $task) {
+                    echo "<li>$task</li>";
+                }
+            }
+            ?>
+        </ul>
     </div>
     <div class="footer">
    </div>
