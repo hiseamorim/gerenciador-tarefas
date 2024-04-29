@@ -25,7 +25,7 @@ Projeto desenvolvido para disciplina de Programação Web II. Copiamos um gerenc
 - `unset()`: É utilizada em PHP para destruir uma variável especificada. Isso significa que a variável deixará de existir e seu conteúdo será removido da memória.
 
 ## 📄 Fontes consultadas
-MonolitoPHP [https://www.youtube.com/watch?v=dJ49I-QYYUk&ab_channel=MonolitoPHP]
+MonolitoPHP[https://www.youtube.com/watch?v=dJ49I-QYYUk&ab_channel=MonolitoPHP]
 
 ## ✒️ Autores
 | [<img loading="lazy" src="https://avatars.githubusercontent.com/u/105460028?v=4" width=115><br><sub>Hanelise Naves Amorim</sub>](https://github.com/hiseamorim) |  [<img loading="lazy" src="https://avatars.githubusercontent.com/u/86802310?v=4" width=115><br><sub>Leonardo Rocha</sub>](https://github.com/LeonardoRochaMarista) |  [<img loading="lazy" src="https://avatars.githubusercontent.com/u/86796647?s=200&v=4" width=115><br><sub>Marista Escola Social Ir. Acácio</sub>](https://github.com/MaristaIrAcacio) |
