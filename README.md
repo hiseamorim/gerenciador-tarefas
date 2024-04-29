@@ -1,6 +1,5 @@
-# Gerenciador de Tarefas
 
-# 🚀 Projeto - Sistema de salário
+# 🚀 Projeto - Gerenciador de Tarefas
 
 # Página inicial
 ![imagem](img1/semCSS.png)
